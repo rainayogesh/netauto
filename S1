@@ -8,7 +8,7 @@ foods:
   - Apple
   - Orange
   - Strawberry
-  - Mango
+  - Mangoes
 languages:
   perl: Elite
   python: Elite
@@ -16,4 +16,4 @@ languages:
 education: |
   4 GCSEs
   3 A-Levels
-  BSc in the Internet of Things
+  BSc in the Internet of Things 
